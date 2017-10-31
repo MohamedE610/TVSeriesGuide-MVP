@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">TV​ ​App​ ​SeriesGuide</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="Refresh">Refresh</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="imgStringUrl">http://image.tmdb.org/t/p/w185/</string>
+    <string name="bundle">bundle</string>
+    <string name="model">model</string>
+    <string name="posterimg">PosterImg</string>
+    <string name="setasfavourite">SetAsFavourite</string>
+    <string name="overview">Overview</string>
+    <string name="trailers">Trailers</string>
+    <string name="playonyoutube">PlayOnYoutube</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="FavouriteTVSeries">Favourite TV Series</string>
+    <string name="type">type</string>
+    <string name="Favourite">Favourite</string>
+    <string name="fragmentType">fragmentType</string>
+    <string name="NO_Internet">NO Internet</string>
+    <string name="Popular">Popular Movies</string>
+    <string name="pop_">Popular</string>
+    <string name="Top">Top Rated Movies</string>
+    <string name="top_">Top</string>
+    <string name="t_p">text/plain</string>
+    <string name="content_body">Here is the share content body</string>
+    <string name="Subject">Subject Here</string>
+    <string name="Share">Share via</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+    <string name="youtubeURL">https://www.youtube.com/watch?v=</string>
+    <string name="TrailerModel">TrailerModel</string>
+    <string name="Recommendations">Recommendations</string>
+    <string name="NOInternetTo">NO Internet To loading Recommendations and Trailer</string>
+    <string name="check">check</string>
+    <string name="NoInternetConnection">No Internet Connection</string>
+    <string name="Saved">Saved Successfully</string>
+    <string name="Failed">Saved Failed</string>
+    <string name="deleteSuc">delete Successfully</string>
+    <string name="deleteFa">delete Failed</string>
+    <string name="img_String">http://image.tmdb.org/t/p/w185/</string>
+    <string name="msp">Most Popular Series</string>
+    <string name="trs">Top Rated Series</string>
+    <string name="fs">Favourite Series</string>
+</resources>

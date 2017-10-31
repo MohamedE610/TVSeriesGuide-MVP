@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "768275346325",
+    "project_id": "tv-app-seriesguide"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768275346325:android:aaebf4b5dff2836a",
+        "android_client_info": {
+          "package_name": "com.example.e610.tvappseriesguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768275346325-hq1alklmahoii4e54qfggi2n47nqhrkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e610.tvappseriesguide",
+            "certificate_hash": "fd376bc39e71a07dd6bfbc105afe69ec0f92a028"
+          }
+        },
+        {
+          "client_id": "768275346325-fivpdgnpgm12q5lthfaev7ohr2eclp4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmo1uCnaYTpR8L1xH0l7RjdTJYsZAAesU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
